@@ -1,0 +1,41 @@
+p{
+    padding: 0;
+    margin: 0 0 8px 10px;
+}
+button{
+    margin: 10px 0 0 0;
+}
+.zagolovok{
+    margin: 10px 0 10px 10px;
+    cursor: pointer;
+}
+hr{
+    margin: 2px 0 20px 0;
+}
+#t1{
+    text-align: center;
+}
+#t2{
+    text-align: center;
+}
+td{
+    padding: 3px 3px 3px 3px;
+}
+#poiskPublishingValue{
+    width: 200px;
+}
+#poiskPoisk{
+    width: 200px;
+}
+table{
+    margin: 0 0 0 10px;
+}  
+#addGenre{
+    margin: 0 0 0 10px;
+}
+#addAuthor{
+    margin: 0 0 0 10px;
+}
+#addPublishing{
+    margin: 0 0 0 10px;
+}
